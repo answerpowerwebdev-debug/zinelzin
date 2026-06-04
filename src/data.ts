@@ -62,4 +62,5 @@ export const FUNNY_WORDS: string[] = [
   "Hakka",
   "Hekkeka",
   "Audit",
+  "9lo9t",
 ];
