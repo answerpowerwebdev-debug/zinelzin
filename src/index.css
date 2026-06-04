@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Soft page background + nice selection */
+html,
+body {
+  height: 100%;
+}
+
+body {
+  @apply bg-gradient-to-b from-black via-gray-900 to-black text-gray-100 antialiased;
+}
+
+::selection {
+  background: rgba(244, 63, 134, 0.25);
+}
+
+/* Smooth scroll */
+html {
+  scroll-behavior: smooth;
+}
