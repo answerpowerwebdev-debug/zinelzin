@@ -5,7 +5,7 @@ export const HER_NAME = "Ranim Brahem";
 export const YOUR_NAME = "Aziz";
 
 // Favorite photo of her or both of you (replace with your own)
-export const FAVORITE_PHOTO_URL = "/assets/ranim.jpg";
+export const FAVORITE_PHOTO_URL = "/assets/ranim1.jpg";
 
 // Couple photo (replace with your own)
 export const COUPLE_PHOTO_URL = "/assets/us.jpg";
