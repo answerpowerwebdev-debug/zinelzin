@@ -19,6 +19,8 @@ Happy birthday. You mean more to me than I can ever explain in one message, but 
 
 I love the way you make life feel lighter and warmer. My favorite memories are the small ones — your laugh, your voice, our little moments that feel like home, and all the moments we spent together studying or me explaining network stuff to you.
 
+I love being by your side, helping you whenever I can, showing you how things work, and sharing what I know with you. Those moments mean a lot to me because they remind me how much I enjoy growing and learning together.
+
 On your birthday, I wish you peace, confidence, and a year full of beautiful surprises. I hope you complete your project and earn your degree, and I hope you get everything you’ve been working for, and even more.
 
 No matter where life takes us, I want you to know this: I’m proud of you, I believe in you, and I’m always in your corner.
